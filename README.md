@@ -6,4 +6,4 @@ setting rulus when codeing
 
 ## command
 $ npm init
-$ npm 
+$ npm install -D --save typescript tslint @types/node
