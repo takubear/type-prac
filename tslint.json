@@ -1,0 +1,11 @@
+{
+    "defaultSeverty": "error",
+    "extends":[
+        "tslint:recommended"
+    ],
+    "rules":{
+        "semicolon": false,
+        "trailing-comma": false
+
+    }
+}
